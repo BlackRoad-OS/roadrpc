@@ -1,0 +1,9 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "roadrpc"
+version = "0.1.0"
+description = "Remote Procedure Calls for BlackRoad"
+requires-python = ">=3.10"
